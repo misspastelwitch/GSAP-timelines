@@ -20,4 +20,5 @@ export const DOM = {
    rings:$('.rings'),
    topOfStack:$('.top-of-stack'),
    alienEmoji:$('#alien-emoji'),
+   ufo:$('#ufo')
 }
